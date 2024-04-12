@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "904017",
+      "name": "资格认证",
+      "font_class": "zigerenzheng",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "1220256",
+      "name": "护理",
+      "font_class": "huli",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "27731568",
+      "name": "求",
+      "font_class": "a-bianzu9beifen3",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    }
+  ]
+}
