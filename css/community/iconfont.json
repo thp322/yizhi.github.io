@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12636965",
+      "name": "icon-已毕业",
+      "font_class": "icon_yibiye",
+      "unicode": "e86c",
+      "unicode_decimal": 59500
+    },
+    {
+      "icon_id": "17655238",
+      "name": "智能",
+      "font_class": "zhineng",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "33324523",
+      "name": "a-personalityfilter",
+      "font_class": "a-personalityfilter",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "33916198",
+      "name": "基础护理-心电监护-物品准备",
+      "font_class": "jichuhuli-xindianjianhu-wupinzhunbei",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "36659349",
+      "name": "生活护理",
+      "font_class": "shenghuohuli",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "37288867",
+      "name": "视频学习",
+      "font_class": "shipinxuexi",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "39479211",
+      "name": "学习资料",
+      "font_class": "xuexiziliao",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    }
+  ]
+}
